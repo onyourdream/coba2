@@ -1,2 +1,9 @@
 Annyeong
+<<<<<<< HEAD
 This is my new commit!!
+=======
+This is my new commit!!
+
+Yeah! Go Gurl!
+ I'm so tired, please let me sleep!!
+>>>>>>> 153b8df6345aefb0d3d71b56d2206bf2a4b4513d
